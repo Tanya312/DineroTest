@@ -1,1 +1,1 @@
-web: gunicorn testDinero.wsgi --log-file -
+web: gunicorn gettingstarted.wsgi --log-file -
