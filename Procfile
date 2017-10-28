@@ -1,1 +1,1 @@
-web: gunicorn testDinero.wsgi --log-file -
+web: python manage.py runserver 9999
