@@ -2,3 +2,4 @@ django
 django-tastypie
 gunicorn
 psycopg2
+dj-static
